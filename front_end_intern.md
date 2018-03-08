@@ -26,6 +26,6 @@ Caso você tenha um perfil próximo ao que estamos procurando, envie um email pa
 * Endereço do seu perfil no Linkedin ou currículo em PDF
 * Perfil no Github ou serviço semelhante
 
-O trabalho é home office, com carga horária de 20 horas semanais e bolsa de R$ 850,00.
+O trabalho é home office, com carga horária de 20 horas semanais e bolsa de R$ 900,00.
 
 ***
