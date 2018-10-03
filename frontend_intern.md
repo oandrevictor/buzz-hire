@@ -1,6 +1,3 @@
-# A E.life
-A E.life, empresa líder em monitoramento, análise e gestão de relacionamento em mídias sociais na América Latina, está com vagas abertas para trabalhar na plataforma Buzzmonitor.
-
 ## Buzzmonitor
 O Buzzmonitor (https://buzzmonitor.com.br) é uma plataforma que permite acompanhar em tempo real do que é dito sobre a marca e concorrentes nos espaços digitais, ativar e responder aos consumidores e ainda avaliar a performance dos canais onde as empresas estão presentes.
 
