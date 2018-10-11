@@ -13,7 +13,7 @@ O Buzzmonitor (https://buzzmonitor.com.br) é uma plataforma que permite acompan
 * Apresentar fluência em comunicação oral e escrita
 * Experiência prévia com Java
 
-Caso você tenha um perfil próximo ao que estamos procurando, envie um email para jobs@buzzmonitor.com.br com o assunto "Buzzmonitor - Vaga de desenvolvedor back-end" e os seguintes pontos:
+Caso você tenha um perfil próximo ao que estamos procurando, envie um email para jobs@buzzmonitor.com.br com o assunto "Buzzmonitor - Vaga de estágio back-end" e os seguintes pontos:
 
 * Pequena apresentação
 * Endereço do seu perfil no Linkedin ou currículo em PDF
