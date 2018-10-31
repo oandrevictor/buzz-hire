@@ -1,7 +1,7 @@
 ## Buzzmonitor
 O Buzzmonitor (https://buzzmonitor.com.br) é uma plataforma que permite acompanhar em tempo real do que é dito sobre a marca e concorrentes nos espaços digitais, ativar e responder aos consumidores e ainda avaliar a performance dos canais onde as empresas estão presentes.
 
-#### Estágio UX Designer
+#### Estágio - UX Designer
 
 ##### Responsabilidades
 * Prototipar novas telas e fluxos da aplicação
