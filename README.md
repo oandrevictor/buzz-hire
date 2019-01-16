@@ -1,5 +1,5 @@
 ## Buzzmonitor
-O Buzzmonitor (https://buzzmonitor.com.br) é uma plataforma que permite acompanhar em tempo real do que é dito sobre a marca e concorrentes nos espaços digitais, ativar e responder aos consumidores e ainda avaliar a performance dos canais onde as empresas estão presentes.
+O Buzzmonitor (https://buzzmonitor.com.br) é uma plataforma que permite acompanhar em tempo real o que é dito sobre uma marca e seus concorrentes no mundo digital. Social Listening, Customer Service e Analytics, tudo em um único produto. 
 
 ### _Vagas disponíveis_
 
