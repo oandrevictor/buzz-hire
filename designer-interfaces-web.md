@@ -1,7 +1,7 @@
 ## Buzzmonitor
 O Buzzmonitor (https://buzzmonitor.com.br) é uma plataforma que permite acompanhar em tempo real do que é dito sobre a marca e concorrentes nos espaços digitais, ativar e responder aos consumidores e ainda avaliar a performance dos canais onde as empresas estão presentes.
 
-#### Estágio - UX Designer
+#### Estágio - Home Office - Designer de Interfaces (WEB)
 
 ##### Responsabilidades
 * Prototipar novas telas e fluxos da aplicação
@@ -13,15 +13,13 @@ O Buzzmonitor (https://buzzmonitor.com.br) é uma plataforma que permite acompan
 * Apresentar fluência em comunicação oral e escrita
 
 ##### Diferenciais
-* Experiência prévia com design de interação em produtos web ou mobile
+* Experiência prévia com design em produtos digitais
 * Conhecimento do mundo HTML e CSS
 
-Caso você tenha um perfil próximo ao que estamos procurando, envie um email para jobs@buzzmonitor.com.br com o assunto "Buzzmonitor - Vaga de Designer UX (Estágio) " e os seguintes pontos:
+Caso você tenha um perfil próximo ao que estamos procurando, envie um email para jobs@buzzmonitor.com.br com o assunto "Estágio - Home Office - Designer de Interfaces (WEB)" e os seguintes pontos:
 
-* Pequena apresentação, com possivelmente trabalhos onde você já se envolveu
-* Endereço do seu perfil no Linkedin ou currículo em PDF
-* Portifólio
+* Pequena apresentação, com possivelmente trabalhos onde você já se envolveu.
+* Currículo em PDF ou endereço do perfil no Linkedin.
+* Portifólio.
 
-O trabalho é home office, com carga horária de 20 horas semanais e bolsa de R$ 900,00.
-
-***
+O trabalho é home office, com carga horária de 20 horas semanais e bolsa de R$ 900,00 a R$1.500
