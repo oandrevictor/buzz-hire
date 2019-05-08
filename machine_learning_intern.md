@@ -15,7 +15,7 @@ O Buzzmonitor (https://buzzmonitor.com.br) é uma plataforma que permite acompan
 * Experiência com desenvolvimento web e conhecimento de HTML, CSS e JavaScript
 * Experiência prévia com projetos nas áreas de ML / IA
 
-Caso você tenha um perfil próximo ao que estamos procurando, envie um email para jobs@buzzmonitor.com.br com o assunto "Buzzmonitor - Vaga de estágio front-end" e os seguintes pontos:
+Caso você tenha um perfil próximo ao que estamos procurando, envie um email para jobs@buzzmonitor.com.br com o assunto "Buzzmonitor - Vaga de estágio Machine Learning" e os seguintes pontos:
 
 * Pequena apresentação
 * Endereço do seu perfil no Linkedin ou currículo em PDF
