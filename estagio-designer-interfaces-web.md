@@ -22,4 +22,4 @@ Caso você tenha um perfil próximo ao que estamos procurando, envie um email pa
 * Currículo em PDF ou endereço do perfil no Linkedin.
 * Portifólio.
 
-O trabalho é home office, com carga horária de 20 horas semanais e bolsa de R$ 900,00 a R$1.500
+O trabalho é home office, com carga horária de 20 a 30 horas semanais e bolsa de R$ 900,00 a R$1.500
