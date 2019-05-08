@@ -4,7 +4,7 @@ O Buzzmonitor (https://buzzmonitor.com.br) é uma plataforma que permite acompan
 ### _Vagas disponíveis_
 
 #### [FECHADA - QoS Analyst](https://github.com/elifebr/buzz-hire/blob/master/qos-anayst.md)
-#### [ABERTA - Estágio Back-end](https://github.com/elifebr/buzz-hire/blob/master/java_backend_developer.md)
+#### [ABERTA - Estágio Back-end](https://github.com/elifebr/buzz-hire/blob/master/java_backend_intern.md)
 #### [ABERTA - Estágio Front-end](https://github.com/elifebr/buzz-hire/blob/master/front_end_intern.md)
 #### [ABERTA - Estágio Designer de Interfaces (WEB)](https://github.com/elifebr/buzz-hire/blob/master/uxdesigner-intern.md)
 #### [FECHADA - Desenvolvedor Back-end](https://github.com/elifebr/buzz-hire/blob/master/java_full_backend_developer.md)
