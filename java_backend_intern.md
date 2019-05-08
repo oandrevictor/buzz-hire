@@ -19,4 +19,4 @@ Caso você tenha um perfil próximo ao que estamos procurando, envie um email pa
 * Endereço do seu perfil no Linkedin ou currículo em PDF
 * Perfil no Github ou serviço semelhante
 
-O estágio é home office, com carga horária de 20 horas semanais e bolsa de R$900,00.
+O estágio é home office, com carga horária de 20 a 30 horas semanais e bolsa de R$900,00 a R$1.500.
