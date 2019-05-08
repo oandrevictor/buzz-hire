@@ -7,7 +7,7 @@ O Buzzmonitor (https://buzzmonitor.com.br) é uma plataforma que permite acompan
 #### [ABERTA - Estágio Back-end](https://github.com/elifebr/buzz-hire/blob/master/java_backend_intern.md)
 #### [ABERTA - Estágio Front-end](https://github.com/elifebr/buzz-hire/blob/master/front_end_intern.md)
 #### [ABERTA - Estágio Designer de Interfaces (WEB)](https://github.com/elifebr/buzz-hire/blob/master/estagio-designer-interfaces-web.md)
-#### [ABERTA - Estágio em Machine Learning (WEB)](https://github.com/elifebr/buzz-hire/blob/master/machine_learning_intern.md)
+#### [ABERTA - Estágio em Machine Learning](https://github.com/elifebr/buzz-hire/blob/master/machine_learning_intern.md)
 
 
 
