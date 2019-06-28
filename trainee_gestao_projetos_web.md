@@ -1,7 +1,7 @@
 ## Buzzmonitor
-O Buzzmonitor (https://buzzmonitor.com.br) é uma plataforma que permite acompanhar em tempo real do que é dito sobre a marca e concorrentes nos espaços digitais, ativar e responder aos consumidores e ainda avaliar a performance dos canais onde as empresas estão presentes.
+O Buzzmonitor (https://buzzmonitor.com.br) é uma plataforma que permite acompanhar em tempo real o que é dito sobre uma marca e seus concorrentes no mundo da Social Media.
 
-#### Trainee - Home Office - Product Management
+#### Trainee - Home Office - Gestão de projetos web
 
 ##### Responsabilidades
 * Escrever user stories e casos de uso para novas funcionalidades no sistema;
@@ -15,7 +15,7 @@ O Buzzmonitor (https://buzzmonitor.com.br) é uma plataforma que permite acompan
 
 ##### Diferenciais
 * Experiência com design em produtos digitais
-* Experiência técnica prévia com HTML / CSS
+* Experiência prévia na área de tecnologia
 
 Caso você tenha um perfil próximo ao que estamos procurando, envie um email para jobs@buzzmonitor.com.br com o assunto "Trainee - Gestão de Projetos Web" e os seguintes pontos:
 
@@ -23,4 +23,4 @@ Caso você tenha um perfil próximo ao que estamos procurando, envie um email pa
 * Currículo em PDF ou endereço do perfil no Linkedin.
 * Portifólio.
 
-O trabalho é home office, com carga horária de 20 a 30 horas semanais e bolsa de R$ 900,00 a R$1.800
+O trabalho é home office, com carga horária de 30 horas semanais e bolsa de R$900,00 a R$2.500,00, a depender do candidato.
