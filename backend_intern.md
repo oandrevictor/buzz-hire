@@ -1,7 +1,7 @@
 ## Buzzmonitor
 O Buzzmonitor (https://buzzmonitor.com.br) é uma plataforma que permite acompanhar em tempo real do que é dito sobre a marca e concorrentes nos espaços digitais, ativar e responder aos consumidores e ainda avaliar a performance dos canais onde as empresas estão presentes.
 
-#### Estágio em Java - Back-end
+#### Estágio em Java / Rails - Back-end
 
 ##### Responsabilidades
 * Trabalhar em sintonia com os outros desenvolvedores
@@ -11,7 +11,7 @@ O Buzzmonitor (https://buzzmonitor.com.br) é uma plataforma que permite acompan
 ##### Qualificações
 * Graduando em ciência da computação, engenharia da computação ou áreas afins
 * Apresentar fluência em comunicação oral e escrita
-* Experiência prévia com Java
+* Experiência prévia com Java e/ou Rails
 
 Caso você tenha um perfil próximo ao que estamos procurando, envie um email para jobs@buzzmonitor.com.br com o assunto "Buzzmonitor - Vaga de estágio back-end" e os seguintes pontos:
 
