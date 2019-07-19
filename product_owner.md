@@ -17,7 +17,7 @@ O Buzzmonitor (https://buzzmonitor.com.br) é uma plataforma que permite acompan
 * Experiência com design em produtos digitais
 * Experiência prévia na área de tecnologia
 
-Caso você tenha um perfil próximo ao que estamos procurando, envie um email para jobs@buzzmonitor.com.br com o assunto "Trainee - Gestão de Projetos Web" e os seguintes pontos:
+Caso você tenha um perfil próximo ao que estamos procurando, envie um email para jobs@buzzmonitor.com.br com o assunto "Product Owner" e os seguintes pontos:
 
 * Pequena apresentação, com possivelmente trabalhos onde você já se envolveu.
 * Currículo em PDF ou endereço do perfil no Linkedin.
