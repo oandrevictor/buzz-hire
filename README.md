@@ -10,6 +10,8 @@ O Buzzmonitor (https://buzzmonitor.com.br) é uma plataforma que permite acompan
 
 
 ## Vagas
+
+### [ABERTA - Suporte Técnico - TI](https://github.com/elifebr/buzz-hire/blob/master/helpdesk-analyst.md)
 ### [ABERTA - Desenvolvedor Back-end](https://github.com/elifebr/buzz-hire/blob/master/java_full_backend_developer.md)
 ### [FECHADA - Product Owner](https://github.com/elifebr/buzz-hire/blob/master/product_owner.md) 
 ### [FECHADA - QoS Analyst](https://github.com/elifebr/buzz-hire/blob/master/qos-anayst.md)
