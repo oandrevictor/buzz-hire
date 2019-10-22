@@ -5,7 +5,7 @@ O Buzzmonitor (https://buzzmonitor.com.br) é uma plataforma que permite acompan
 
 ##### Responsabilidades
 * Identificar bugs em Software;
-* Atender a chamados de clientes e usuários da pltaforma;
+* Atender a chamados de clientes e usuários da plataforma;
 * Realizar conferências por Skype / Google Hangouts para identificar problemas de uso do cliente;
 * Sugerir melhorias na usabilidade da plataforma para redução de chamados;
 * Sobreaviso em finais de semana.
