@@ -19,12 +19,10 @@ O Buzzmonitor (https://buzzmonitor.com.br) é uma plataforma que permite acompan
 * Experiência prévia na área de tecnologia, especialmente em suporte de Softwares.
 * Inglês ou Espanhol.
 
-Caso você tenha um perfil próximo ao que estamos procurando, envie um email para jobs@buzzmonitor.com.br com o assunto "Buzzmonitor - Vaga de estágio Machine Learning" e os seguintes pontos:
+Caso você tenha um perfil próximo ao que estamos procurando, envie um email para jobs@buzzmonitor.com.br com o assunto "Buzzmonitor - Vaga de Suporte / Helpdesk" e os seguintes pontos:
 
 * Pequena apresentação
 * Endereço do seu perfil no Linkedin ou currículo em PDF
-* Perfil no Github ou serviço semelhante
-* Exemplos de projetos onde já participou
 
 O trabalho é home-office, com carga horária 40 horas semanais para posições full-time ou 30 horas para posições part-time.
 
