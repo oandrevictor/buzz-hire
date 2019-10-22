@@ -1,7 +1,7 @@
 ## Buzzmonitor
 O Buzzmonitor (https://buzzmonitor.com.br) é uma plataforma que permite acompanhar em tempo real do que é dito sobre a marca e concorrentes nos espaços digitais, ativar e responder aos consumidores e ainda avaliar a performance dos canais onde as empresas estão presentes.
 
-#### Suporte de TI (Help Desk) - Home Office
+#### Analista de Suporte Técnico - Home Office
 
 ##### Responsabilidades
 * Identificar bugs em Software;
