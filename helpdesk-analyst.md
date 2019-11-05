@@ -24,6 +24,6 @@ Caso você tenha um perfil próximo ao que estamos procurando, envie um email pa
 * Pequena apresentação
 * Endereço do seu perfil no Linkedin ou currículo em PDF
 
-O trabalho é home-office, com carga horária 40 horas semanais para posições full-time ou 30 horas para posições part-time.
+O trabalho é home-office, com carga horária 40 horas semanais para posições full-time (40 horas em horário comercial).
 
 ***
