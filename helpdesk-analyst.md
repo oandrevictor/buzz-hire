@@ -4,20 +4,20 @@ O Buzzmonitor (https://buzzmonitor.com.br) é uma plataforma que permite acompan
 #### Analista de Suporte Técnico - Home Office
 
 ##### Responsabilidades
-* Identificar bugs em Software;
-* Atender a chamados de clientes e usuários da plataforma;
-* Realizar conferências por Skype / Google Hangouts para identificar problemas de uso do cliente;
-* Sugerir melhorias na usabilidade da plataforma para redução de chamados;
-* Sobreaviso em finais de semana.
+* Identificar bugs em Software
+* Atender a chamados de clientes e usuários da plataforma
+* Realizar conferências por Skype / Google Hangouts para identificar problemas de uso do cliente
+* Sugerir melhorias na usabilidade da plataforma para redução de chamados
+* Sobreaviso em finais de semana
 
 ##### Qualificações
-* Estar matriculado ou graduação finalizada em cursos da área de Tecnologia;
-* Apresentar fluência em comunicação oral e escrita;
-* Boa capacidade de investigação e argumentação;
+* Estar matriculado ou graduação finalizada em cursos da área de Tecnologia
+* Apresentar fluência em comunicação oral e escrita
+* Boa capacidade de investigação e argumentação
 
 ##### Diferenciais
-* Experiência prévia na área de tecnologia, especialmente em suporte de Softwares.
-* Inglês ou Espanhol.
+* Experiência prévia na área de tecnologia, especialmente em suporte de Softwares
+* Inglês ou Espanhol
 
 Caso você tenha um perfil próximo ao que estamos procurando, envie um email para jobs@buzzmonitor.com.br com o assunto "Buzzmonitor - Vaga de Suporte / Helpdesk" e os seguintes pontos:
 
