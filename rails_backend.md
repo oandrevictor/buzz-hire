@@ -4,7 +4,7 @@ O Buzzmonitor (https://buzzmonitor.com.br) é a ferramenta líder em monitoramen
 
 Usando o Buzzmontior, empresas conseguem acompanhar em tempo real o que é dito sobre suas marcas e concorrentes nos espaços digitais. Nosso stack abrange um número alto de tecnologias, como Ruby, Java, Python, Elasticsearch, Postgresql, Mongo, AngularJS, React, RabbitMQ e outras.
 
-Alguns clientes que usam nossa plataforma são: Coca-Cola, Claro, Mc Donalds, Smart Fit, Rede Globo, Renault, Casas Bahia e centenas de outras.
+Clientes como Coca-Cola, Claro, Mc Donalds, Smart Fit, Rede Globo, Renault, Casas Bahia e centenas de outras usam nossa plataforma diariamente para gerenciar sua presença digital.
 
 Nosso time de tecnologia é full-remote.
 
