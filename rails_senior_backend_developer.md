@@ -32,7 +32,7 @@ Atualmente buscamos um Engenheiro de Software Senior, com experiência prévia e
 * Inglês fluente
 
 ##### Submissão
-Caso você tenha um perfil próximo ao que estamos procurando, envie um email para jobs@buzzmonitor.com.br com o assunto "Buzzmonitor - Desenvolvedor - Rails (Senior)", contemplando:
+Caso você tenha um perfil próximo ao que estamos procurando, envie um email para jobs@buzzmonitor.com.br com o assunto "Buzzmonitor - Engenheiro de Software Senior - Rails", contemplando:
 
 * Pequena apresentação
 * Telefone celular
