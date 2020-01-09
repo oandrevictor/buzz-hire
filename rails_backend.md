@@ -10,7 +10,7 @@ Nosso time de tecnologia é full-remote.
 
 ## [REMOTE] Engenheiro de Software - Back-end (Rails) - Pleno ou Sênior
 
-Estamos em busca de Engenheiros de Software, em nível pleno ou sênior para se juntarem ao nosso time.  É necessário experiência prévia em Rails. Experiências prévias com RabbitMQ e/ou Elasticsearch são muito bem-vindas. 
+Estamos em busca de Engenheiros de Software, em nível pleno ou sênior, para se juntarem ao nosso time.  É necessário experiência prévia em Rails. Experiências prévias com RabbitMQ e/ou Elasticsearch são muito bem-vindas. 
 
 #### Responsabilidades
 * Trabalhar em sintonia com os outros desenvolvedores
