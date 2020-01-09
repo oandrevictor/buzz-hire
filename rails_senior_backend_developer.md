@@ -6,7 +6,7 @@ Usando o Buzzmontior, as empresas conseguem acompanhar em tempo real o que é di
 
 Nosso time de tecnologia é full-remote.
 
-## [REMOTE] Desenvolvedor Back-end Senior (Rails e Elasticsearch)
+## [REMOTE] Engenheiro de Software Senior - Back-end (Rails e Elasticsearch)
 
 Atualmente buscamos um Engenheiro de Software Senior, com experiência prévia em Rails, RabbitMQ (ou algum outro sistema de filas) e Elasticsearch para se juntar ao nosso time. 
 
