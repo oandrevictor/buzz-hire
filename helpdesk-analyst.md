@@ -19,10 +19,7 @@ O Buzzmonitor (https://buzzmonitor.com.br) é uma plataforma que permite acompan
 * Experiência prévia na área de tecnologia, especialmente em suporte de Softwares
 * Inglês ou Espanhol
 
-Caso você tenha um perfil próximo ao que estamos procurando, envie um email para jobs@buzzmonitor.com.br com o assunto "Buzzmonitor - Vaga de Suporte / Helpdesk" e os seguintes pontos:
-
-* Pequena apresentação
-* Endereço do seu perfil no Linkedin ou currículo em PDF
+Caso você tenha um perfil próximo ao que estamos procurando, preencha o formulário disponível nessa URL: [https://docs.google.com/forms/d/1JX-zDisNUlyEYYqUNrBlGOny_Zui8kGmXZhBZRZeg-A
 
 O trabalho é home-office, com carga horária 40 horas semanais em horário comercial no fuso-horário de Brasília.
 
